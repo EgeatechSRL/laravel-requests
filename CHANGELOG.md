@@ -2,6 +2,12 @@
 
 All notable changes to `LaravelRequests` will be documented in this file.
 
+## Version 2.0.0
+
+### Removed
+
+- Support for PHP 7.4
+
 ## Version 1.0.2
 
 ### Added

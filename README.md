@@ -7,7 +7,8 @@ A package to provide some standardized request classes.
 
 ## Installation
 
-This package supports Laravel 7 and 8. 
+This package supports Laravel 7, 8 and 9 but requires **at least** PHP 8.0 (starting from v2.x). PHP 7.4 was supported
+up to version 1.0.2.
 
 Via Composer
 
