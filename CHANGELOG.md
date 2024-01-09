@@ -2,6 +2,12 @@
 
 All notable changes to `LaravelRequests` will be documented in this file.
 
+## Version 3.0.0
+
+### Added
+
+- Support for Laravel 10.x
+
 ## Version 2.0.0
 
 ### Removed
